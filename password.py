@@ -6,7 +6,7 @@ print("welcom😍")
 
 while True:
     
-    system = input("for sign up print << sign up >> \n for Login print << login >> \n :")
+    system = input("<< exit >> for sign up print << sign up >> :")
     
     if system == "sign up":
         user_name = input("<< exit >> plase Enter name: ")
@@ -60,6 +60,7 @@ while True:
 
 
                     
+
 
 
 
