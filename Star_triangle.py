@@ -8,7 +8,9 @@ for i in range(1, 10):
     time.sleep(1)
     print(" " * space , end=" ")
     print(i * " * ")
-        
+
+    
     star += 1
     space -= 1
         
+
